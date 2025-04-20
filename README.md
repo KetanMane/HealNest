@@ -19,7 +19,6 @@ Check it out here: [https://healnest.vercel.app](https://healnest.vercel.app)
 - 🧘 Affirmations and breathing guides  
 - 📝 Mood tracking and reflection tools  
 - 📱 Fully responsive and mobile-friendly design
-  
 
 ## 🛠️ Built With
 
